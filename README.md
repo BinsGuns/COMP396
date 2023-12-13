@@ -1,1 +1,1 @@
-# COMP394Project
+# COMP396Project
