@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Inventory
+  - Camera
+  - Enemy
+  - Projectile
+  - Item Manager
+  - Item
+  - FirePoint
+  - EnemyHealthBar
+  - PatrolIcon
+  - AttackIcon
+  - First Skill
+  - PopupMessage
+  - Tutorial
+  - Skill
+  - DeathZone
+  - Boss
+  - Companion
+  - WeaponSlot
+  - WeaponSlotBaseIcon
+  - WeaponSlotOccupiedIcon
+  - PlayerName
+  - EndLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Post Processing
+  - Player
+  - MagicAttack
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
